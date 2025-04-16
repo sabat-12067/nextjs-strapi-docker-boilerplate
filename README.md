@@ -4,11 +4,6 @@
   <img src="https://user-images.githubusercontent.com/44535256/180598361-505e938a-dff5-4845-9fb7-6f0a7b8d0682.png" alt="Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/helloburaste">
-    <img alt="Twitter: Hello Buraste" src="https://img.shields.io/twitter/follow/helloburaste?style=social" target="_blank" />
-  </a>
-</p>
 <p style="margin-top: 0;">Dockerize your Strapi v4 backend with Next.js and Nginx Support 🚀</p>
 	</div>
 
@@ -106,13 +101,12 @@ Secure all your Strapi related endpoints in Nginx, make sure to use API tokens t
 
 We are always welcome for contributions to help shape this package.
 
-If interested please feel free to email the maintainer Burak at: hello@buraste.com
+If interested please feel free to email the maintainer Burak at: greatdev12067@gmail.com
 
 ## Authors
 
 - Burak Ibis:
-	- Github: [@buraste](https://github.com/buraste)
-	- Twitter: [@helloburaste](https://twitter.com/helloburaste)
+	- Github: [@sabat-12067](https://github.com/sabat-12067)
 
 ## License
 
